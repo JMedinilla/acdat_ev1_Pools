@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiniela_JMedinilla</string>
+
+    <string name="punto_json">.json</string>
+    <string name="punto_xml">.xml</string>
+
+    <string name="XML">XML</string>
+    <string name="JSON">JSON</string>
+
+    <string name="res">Resultados:</string>
+    <string name="apu">Apuestas:</string>
+    <string name="jor">Jornadas:</string>
+    <string name="pre">Premios:</string>
+    <string name="btnCotejar">Cotejar datos</string>
+
+    <string name="flecha"><![CDATA[->]]></string>
+
+    <string name="prem">premios</string>
+
+    <string name="defecto_res">http://192.168.1.130/resultados</string>
+    <string name="defecto_apu">http://192.168.1.130/apuestas.txt</string>
+</resources>
